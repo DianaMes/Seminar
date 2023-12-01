@@ -1,0 +1,14 @@
+C:\GeekBrains.1\bin\Debug\net7.0\GeekBrains.1.exe
+C:\GeekBrains.1\bin\Debug\net7.0\GeekBrains.1.deps.json
+C:\GeekBrains.1\bin\Debug\net7.0\GeekBrains.1.runtimeconfig.json
+C:\GeekBrains.1\bin\Debug\net7.0\GeekBrains.1.dll
+C:\GeekBrains.1\bin\Debug\net7.0\GeekBrains.1.pdb
+C:\GeekBrains.1\obj\Debug\net7.0\GeekBrains.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains.1\obj\Debug\net7.0\GeekBrains.1.AssemblyInfoInputs.cache
+C:\GeekBrains.1\obj\Debug\net7.0\GeekBrains.1.AssemblyInfo.cs
+C:\GeekBrains.1\obj\Debug\net7.0\GeekBrains.1.csproj.CoreCompileInputs.cache
+C:\GeekBrains.1\obj\Debug\net7.0\GeekBrains.1.dll
+C:\GeekBrains.1\obj\Debug\net7.0\refint\GeekBrains.1.dll
+C:\GeekBrains.1\obj\Debug\net7.0\GeekBrains.1.pdb
+C:\GeekBrains.1\obj\Debug\net7.0\GeekBrains.1.genruntimeconfig.cache
+C:\GeekBrains.1\obj\Debug\net7.0\ref\GeekBrains.1.dll
